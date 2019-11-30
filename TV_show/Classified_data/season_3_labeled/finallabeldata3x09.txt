@@ -9,7 +9,7 @@
 3x09	that'd be new	0
 3x09	actually, i think a lot of them are jewish	0
 3x09	no, i was just	0
-3x09	never mind	1
+3x09	never mind	1	1	ni
 3x09	look, howard, this is our third date and we both know what that means	0
 3x09	we do	0
 3x09	sex	0

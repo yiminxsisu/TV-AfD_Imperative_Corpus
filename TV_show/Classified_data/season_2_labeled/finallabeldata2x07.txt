@@ -53,7 +53,7 @@
 2x07	they all live in a house together	0
 2x07	a house, where	0
 2x07	i don't know somewhere in la	0
-2x07	wait a minute	1
+2x07	wait a minute	1	1	nf
 2x07	you're telling me that i'm within driving distance	0
 2x07	of a house filled with aspiring supermodels	0
 2x07	yeah, i guess	0

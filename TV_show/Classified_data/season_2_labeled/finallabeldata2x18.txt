@@ -244,7 +244,7 @@
 2x18	wait a minute, you want to make a hair barrette with bluetooth	1	1	nf
 2x18	everything is better with bluetooth	0
 2x18	holy crap someone just ordered a thousand penny blossoms	0
-2x18	get out	1
+2x18	get out	1	1	nf
 2x18	who needs a thousand sparkly flower barrettes with rhinestones	0
 2x18	"the fifth annual east rutherford, new jersey, gay, lesbian, bisexual and transgender alliance luau"	0
 2x18	another market to expand into balding gay men	0
@@ -359,7 +359,7 @@
 2x18	i really need to take that off the web site	0
 2x18	guess we'd better get started	1	1	nf
 2x18	you can't be serious	0
-2x18	come on	1
+2x18	come on	1	1	nf
 2x18	what about the living organism of the workforce	0
 2x18	and the american spirit and jiminy crockett at the alamo davy crockett	0
 2x18	jiminy crockett was a cricket	0

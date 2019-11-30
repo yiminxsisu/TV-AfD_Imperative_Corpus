@@ -110,7 +110,7 @@
 3x22	we have a flag	0
 3x22	never fly it upside down	1	1	ni
 3x22	unless the apartment's in distress and next "if either of us ever invents time travel, "we agree our first stop	will be this meeting today in precisely five seconds"	0
-3x22	okay	1
+3x22	okay	1	2	nf
 3x22	that's disappointing	0
 3x22	why on earth did you agree to all that	0
 3x22	it was the best	apartment i'd seen, the rent was very reasonable and after you've passed the first three barriers you kind of want to take it all the way	0
@@ -119,9 +119,9 @@
 3x22	shh just pretend we're not here	1	1	ni 
 3x22	i'm sure he'll go away	0
 3x22	i'm just going to keep knocking till you answer	0
-3x22	leonard	1
-3x22	leonard	1
-3x22	leonard	1
+3x22	leonard	1	1	nf
+3x22	leonard	1	1	nf
+3x22	leonard	1	1	nf
 3x22	what do you want i didn't say come in	0
 3x22	you asked what i wanted	i wanted to come in i'm here because you violated our roommate agreement specifically, section eight visitors, subsection c females, paragraph four coitus	0
 3x22	roommates shall give each other 12 hours notice	1	1	nf
@@ -135,7 +135,7 @@
 3x22	a little bit okay let me get this straight you move in with this guy, he makes you sign a ridiculous roommate agreement, then he walks into your bedroom while you're doing this	0
 3x22	joyce kim, and you still stay	0
 3x22	actually, i couldn't get too mad at him about joyce kim	0
-3x22	why not	1
+3x22	why not	1	1	ni
 3x22	well, i was doing some government research at the time, you know, military, rocket fuel	it's kind of secret	0
 3x22	what does that have to do with joyce kim	0
 3x22	as it turns out, she was a north korean spy luckily, sheldon drove her out before i revealed anything important	which ii'm not saying i would have	0

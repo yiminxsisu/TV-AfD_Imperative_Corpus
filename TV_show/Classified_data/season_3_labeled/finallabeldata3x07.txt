@@ -120,7 +120,7 @@
 3x07	i don't get how she can just announce that an old boyfriend is going to be sleeping on her couch	0
 3x07	hey, i thought of a game we can play in the car	0
 3x07	i don't want to play a game,	0
-3x07	sheldon	1
+3x07	sheldon	1	1	nf
 3x07	it's called "scientists"	0
 3x07	now, i will name three scientists,	0
 3x07	then you will put them in order	of the size of their contribution to their respective fields to make this game	0
@@ -367,7 +367,7 @@
 3x07	the disruption in your relationship is making my life intolerable	0
 3x07	well, i'm sorry, sheldon, but	0
 3x07	this really isn't about you	0
-3x07	i don't follow	1
+3x07	i don't follow	1	1	ni
 3x07	yeah, yeah, i'll be right there	0
 3x07	look, sheldon,	0
 3x07	i have to go	0
@@ -494,7 +494,7 @@
 3x07	howard and i are just friends	0
 3x07	fine i'll come home	0
 3x07	for sanjay's wedding	0
-3x07	sheldon	1
+3x07	sheldon	1	1	nf
 3x07	what are you doing	0
 3x07	he's not a lost dog	0
 3x07	hey, why don't you just let me find him	0

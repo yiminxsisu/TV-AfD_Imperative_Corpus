@@ -317,7 +317,7 @@
 2x12	that's kripke's robot	0
 2x12	as you can see, the kwippler is weducing the chevy cavawier to wubble	0
 2x12	i can't watch anymore	0
-2x12	sheldon, we have to call it off	1
+2x12	sheldon, we have to call it off	1	1	nf
 2x12	we don't have that option	0
 2x12	we've accepted the challenge	0
 2x12	we can't run away from a fight	0

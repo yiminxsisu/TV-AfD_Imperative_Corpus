@@ -1,78 +1,28 @@
 ﻿2x01	so you see, what you're eating is not technically yogurt,because it doesn't have enough live acidophilus cultures	0
-
-
 2x01	it's really just ice milk with carrageenan added for thickness	0
-
-
 2x01	that's very interesting	0
-
-
 2x01	it's also not pink and has no berries	0
-
-
 2x01	yeah, but it doesn't really answer my question	0
-
-
 2x01	what was your question again	0
-
-
 2x01	do you want some	0			
-
-
 2x01	right	0
-
-
 2x01	no	0
-
-
 2x01	i'm lactose intolerant	0
-
-
 2x01	right	0
-
-
 2x01	so, gas	0
-
-
 2x01	yeah, got it	0
-
-
 2x01	well, good night	0
-
-
 2x01	what are you doing	0
-
-
 2x01	there's a draft	0
-
-
 2x01	i didn't feel a draft	0
-
-
 2x01	why don't we just go into, your	0
-
-
 2x01	yeah, you know what, maybe we should slow things down a little	0
-
-
 2x01	i didn't mean to  go into your apartment to go fast	0
-
-
 2x01	no, i know	0
-
-
 2x01	i know what you meant, it's just this is only our first date	0
-
-
 2x01	okay, sure, no problem	0
-
-
 2x01	why don't we just figure out where we're going and when we want to get there, and then rate of speed equals distance over time, solve for r	0
-
-
 2x01	or we could just wing it	0
-
-
 2x01	that might work, too	0
 
 
@@ -996,62 +946,21 @@
 
 
 2x01	what are you talking about	0
-
-
 2x01	first, i wanna say that it's not sheldon's fault	0
-
-
 2x01	he tried very hard to keep your secret	0
-
-
 2x01	if howard hadn't drugged him, he would've taken it to his grave	0
-
-
 2x01	he told you	0
-
-
 2x01	yes, but it's okay	0
-
-
 2x01	now that we know what the problem is there's a simple solution	0
-
-
 2x01	pasadena city college	0
-
-
 2x01	a place for fun, a place for knowledgethis man here is playing hackey-sack, and this girl's gonna be a paralegal	0
-
-
 2x01	oh, i get it	0
-
-
 2x01	because dr leonard hofstadter can't date a girl without a fancy college degree	0
-
-
 2x01	it's really not that fancy	0
-
-
 2x01	it's just a city college	0
-
-
 2x01	right, but i have to have some sort of degree to date you	0
-
-
 2x01	that doesn't matter to me at all	0
-
-
 2x01	so it's fine with you if i'm not smart	0
-
-
 2x01	absolutely	0
-
-
 2x01	okay, this time, i know where i went wrong	0
-
-
 2x01	bite me	0
-
-
-
-
-

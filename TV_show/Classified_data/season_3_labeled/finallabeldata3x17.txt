@@ -249,7 +249,7 @@
 3x17	excellent choice	0
 3x17	three	0
 3x17	something tells me this was a bad day to wear suede shoes	0
-3x17	i've done it i've won the ring is mine it's mine	1
+3x17	i've done it i've won the ring is mine it's mine	1	1	nf
 3x17	we're going to clean it up and make it pretty	0
 3x17	my own my love my precious	0
 3x17	where's the ring	0

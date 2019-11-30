@@ -113,7 +113,7 @@
 4x12	oh, dear lord, shush	1	1	nf
 4x12	what	0
 4x12	you have so few good ideas,	0
-4x12	leonard	1
+4x12	leonard	1	1	nf
 4x12	and you're just going	0
 4x12	to spill the beans	0
 4x12	in front of an outsider	0

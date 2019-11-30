@@ -22,7 +22,7 @@
 3x04	we're watching goonies, gremlins	0
 3x04	and young sherlock holmes	0
 3x04	they're all written by chris columbus	0
-3x04	okay	1
+3x04	okay	1	3	nf
 3x04	what do you watch on thanksgiving	0
 3x04	the parade	0
 3x04	oh, you know,	0
@@ -176,7 +176,7 @@
 3x04	thank you, sir	0
 3x04	i'm sorry	0
 3x04	am i late	0
-3x04	no, no, no	1
+3x04	no, no, no	1	1	ni
 3x04	right on time	0
 3x04	dr koothrappali,	0
 3x04	may i present	0

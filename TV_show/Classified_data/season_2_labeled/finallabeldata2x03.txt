@@ -159,7 +159,7 @@
 2x03	people can't be in my bedroom	1	1	nf
 2x03	well, can we go talk in the living room	1	1	nf
 2x03	i'm not wearing pajama bottoms	0
-2x03	why not	1
+2x03	why not	1	1	ni
 2x03	i spilled grape juice	0
 2x03	well, wear different pajamas	1	1	nf
 2x03	i can't wear different pajamas  these are my monday pajamas	1	1	ni

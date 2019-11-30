@@ -299,7 +299,7 @@
 2x10	how about i tell you what i'm feeling	0
 2x10	what's that	0
 2x10	really right now	0
-2x10	why not	1
+2x10	why not	1	1	ni
 2x10	i just ate, aren't you supposed to wait an hour	0
 2x10	i think that's for swimming	0
 2x10	i just hope i don't get cramps	0

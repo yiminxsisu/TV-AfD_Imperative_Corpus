@@ -107,7 +107,7 @@
 3x11	it's all right, sheldon	0
 3x11	i will just pretend that leonard's not withholding information although, i will point out, leonard, that i am a trained psychiatrist and you are exhibiting the same secretive behavioral tics that accompanied your learning to masturbate	0
 3x11	isn't she brilliant,	0
-3x11	leonard	1
+3x11	leonard	1	1	nf
 3x11	how i envy you	0
 3x11	so, howard, have you and rajesh finally summoned the courage to express your latent homosexual feelings toward one another	0
 3x11	what no	0

@@ -74,7 +74,7 @@
 3x14	oh, what a gentleman	0
 3x14	hey, sheldon	0
 3x14	leonard oh, my god are you	0
-3x14	sheldon	1
+3x14	sheldon	1	1	nf
 3x14	good lord you're ruining everything	0
 3x14	oh, damn are you okay	0
 3x14	do i look okay	0

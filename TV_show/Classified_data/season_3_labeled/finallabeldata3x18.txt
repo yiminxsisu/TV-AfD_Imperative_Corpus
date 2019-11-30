@@ -51,7 +51,7 @@
 3x18	sheldon, congratulations	0
 3x18	brought you a cheesecake from work you know, 'cause of your award, not because a busboy sneezed on it	0
 3x18	i'm not accepting the award	0
-3x18	why not	1
+3x18	why not	1	1	ni
 3x18	turns out the great Sheldon cooper has stage fright	0
 3x18	that's no reason to back out	0
 3x18	you know, i once got a pretty big honor in high school, and i was terrified about appearing in front of a big crowd, but i went through with it, and you know what the world looked pretty darn good sitting on a haystack in the back of a ford f as a member of the corn queen's court	0
@@ -179,7 +179,7 @@ and then she'd punch me	0
 3x18	sheldon, congratulations	0
 3x18	brought you a cheesecake from work you know, 'cause of your award, not because a busboy sneezed on it	0
 3x18	i'm not accepting the award	0
-3x18	why not	1
+3x18	why not	1	1	ni
 3x18	turns out the great Sheldon cooper has stage fright	0
 3x18	that's no reason to back out	0
 3x18	you know, i once got a pretty big honor in high school, and i was terrified about appearing in front of a big crowd, but i went through with it, and you know what the world looked pretty darn good sitting on a haystack in the back of a ford f as a member of the corn queen's court	0

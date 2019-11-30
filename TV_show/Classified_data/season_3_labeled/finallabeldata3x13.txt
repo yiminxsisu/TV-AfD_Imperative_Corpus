@@ -204,7 +204,7 @@
 3x13	oh, if that were only true unfortunately, as i'm earthbound the foreseeable future, i need to find a location that's more hospitable than the mean streets of pasadena, like enid, Oklahoma low crime rate and highspeed internet connectivity but no model train shops sorry, enid	0
 3x13	is he quitting his job at the university	0
 3x13	oh, no, he's going to telecommute everybody's really excited about it	0
-3x13	all right	1
+3x13	all right	1	1	nf
 3x13	boone, north carolina	0
 3x13	"every summer since , "boone has hosted an outdoor amphitheater portrayal of the life and times of its namesake, dan'l boone"	0
 3x13	sounds like something that would attract the wrong crowd	0
@@ -234,7 +234,7 @@
 3x13	thank you, fellow bozite	 and may i say, you are the living embodiment of all the promises made by our lovely town's chamber of commerce	0
 3x13	wait	1	1	nf
 3x13	wait	1	1	nf
-3x13	excuse me	1
+3x13	excuse me	1	1	nf
 3x13	one ticket to pasadena,	california, please	1	1	nf
 3x13	hey, look who's back	1	1	nf
 3x13	interesting the acquaintance is the first to greet me	0

@@ -511,7 +511,7 @@
 4x09	what choices she makes	0
 4x09	well, that hurts me deeply	0
 4x09	i'm sorry, daddy	0
-4x09	let me finish	1
+4x09	let me finish	1	1	nf
 4x09	oh	0
 4x09	i thought we were past the days	0
 4x09	when you would try to	0

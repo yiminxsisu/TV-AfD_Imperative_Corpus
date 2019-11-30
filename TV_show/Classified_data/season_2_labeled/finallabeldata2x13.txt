@@ -153,7 +153,7 @@
 2x13	abbac	0
 2x13	oh, you picked up on that	0
 2x13	how could i not	0
-2x13	come on	1
+2x13	come on	1	1	nf
 2x13	there's over  questions	0
 2x13	and look at some of these things	0
 2x13	"sheldon is to camaraderie as the space shuttle is to blank"	0
@@ -164,8 +164,8 @@
 2x13	"b avocado rancher"	0
 2x13	and your essay suggesting that i'd have better luck	0
 2x13	making friends if i wait till the cylons take over	0
-2x13	please	1
-2x13	hold on	1
+2x13	please	1	1	nf
+2x13	hold on	1	1	nf
 2x13	i put some real work into that	1	1	nf
 2x13	yes, well, it's better than what wolowitz did	0
 2x13	he drew a raccoon with what appears to be  distended scrotum	0

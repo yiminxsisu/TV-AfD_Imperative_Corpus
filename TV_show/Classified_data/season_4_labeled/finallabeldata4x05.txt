@@ -22,7 +22,7 @@
 4x05	imagine my attitude regarding prolonged physical proximity to amy farrah fowler	0
 4x05	got it	0
 4x05	i sense judgment on your part	0
-4x05	no, no	1
+4x05	no, no	1	1	ni
 4x05	maybe a little	0
 4x05	may i suggest that your	0
 4x05	criticism is based on jealousy	0
